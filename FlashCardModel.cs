@@ -2,7 +2,6 @@ using System;
 using System.Collections.Generic;
 
 
-
 //https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/
 public class FlashCardModel {
 
